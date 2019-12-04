@@ -1,1 +1,3 @@
-expect(first_number).not_to equal (0)
+def calculator(first_number, second_number, sum)
+  
+end
